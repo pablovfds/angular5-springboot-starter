@@ -1,6 +1,6 @@
-##A Spring boot, maven and Angular 5 starter Application
+## A Spring boot, maven and Angular 5 starter Application
 
-his is a multi-module Spring Boot Angular Maven starter app.
+This is a multi-module Spring Boot Angular Maven starter app.
 
 This project provides productive setup for building Spring Boot Angular applications. The application is divided into two Maven modules:
 
